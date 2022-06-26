@@ -32,6 +32,9 @@ Print the characters and its huffmancode.
 
 ``` Python
 
+# Developed by: Sai Eswar Kandukuri
+# Reg no: 212221240020
+
 # Get the input String
 
 string = 'Koduru Sanath Kumar Reddy'
